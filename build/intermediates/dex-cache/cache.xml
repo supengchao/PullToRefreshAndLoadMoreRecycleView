@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\supengchao\Desktop\SuperSwipeRefreshLayout-master\SuperSwipeRefreshLayout-Demo-AS\app\libs\android-support-v7-recyclerview.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9b8f8c6bffdb2ecf68d488704e8ddd2684f0a508">
+        <dex dex="C:\Users\supengchao\Desktop\SuperSwipeRefreshLayout-master\SuperSwipeRefreshLayout-Demo-AS\app\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview-8f09e3abd4cf48e7ad06b2938cb035a96415030e.jar" />
+    </item>
+    <item
+        jar="D:\software\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\supengchao\Desktop\SuperSwipeRefreshLayout-master\SuperSwipeRefreshLayout-Demo-AS\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-06ff75c89c5acc1b9c6b7671ded72db46c0ceaf3.jar" />
+    </item>
+    <item
+        jar="C:\Users\supengchao\Desktop\SuperSwipeRefreshLayout-master\SuperSwipeRefreshLayout-Demo-AS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\supengchao\Desktop\SuperSwipeRefreshLayout-master\SuperSwipeRefreshLayout-Demo-AS\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-5e0d82d7d1ffdecd9864592e7445fec1886ea702.jar" />
+    </item>
+    <item
+        jar="C:\Users\supengchao\Desktop\SuperSwipeRefreshLayout-master\SuperSwipeRefreshLayout-Demo-AS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\supengchao\Desktop\SuperSwipeRefreshLayout-master\SuperSwipeRefreshLayout-Demo-AS\app\build\intermediates\pre-dexed\debug\classes-925585886b7e13582df00e0a75af223315e1d3e5.jar" />
+    </item>
+
+</items>
